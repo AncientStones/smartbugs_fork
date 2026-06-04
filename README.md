@@ -1,3 +1,12 @@
+## My Research Extension
+This fork is part of my graduate research on proactive DeFi security at Carnegie Mellon 
+University Africa. I have used SmartBugs to run vulnerability detection experiments on 
+smart contract datasets as a baseline comparison for my adversarial security framework.
+
+See [RESEARCH-NOTES.md](./RESEARCH-NOTES.md) for my experiments and findings.
+
+---
+
 # SmartBugs: A Framework for Analysing Ethereum Smart Contracts
 
 <a href="https://github.com/smartbugs/smartbugs/releases"><img alt="Smartbugs release" src="https://img.shields.io/github/release/smartbugs/smartbugs.svg"></a>
